@@ -1,0 +1,86 @@
+/* Include 
+- search form part 
+- description part
+- forecast part
+ */
+
+form {
+  padding: 20px;
+  border-bottom: 1px solid #a4c5d4;
+  font-family: "Slabo 13px", serif;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.form-control {
+  background-color: #abd0e6;
+  border: none;
+  color: #4a1118;
+  padding: 20px 20px 20px 20px;
+  border-radius: 5px;
+}
+
+.search-button {
+  background-color: #abd0e6;
+  color: white;
+  border: none;
+  padding: 20px 20px 20px 20px;
+  border-radius: 5px;
+}
+
+/* Weather Info */
+.WeatherInfo {
+  padding: 20px 30px;
+  border-bottom: 1px solid #a4c5d4;
+  font-family: "Slabo 13px", serif;
+  font-size: 16px;
+  display: block;
+  justify-content: center;
+}
+
+.WeatherInfo h1 {
+  font-size: 40px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+
+/* .WeatherInfo row {
+    text-align: ;
+} */
+
+.WeatherTemperature .temperature {
+  position: relative;
+  top: -20px;
+  font-size: 80px;
+  color: #005aa1;
+}
+
+.WeatherTemperature .unit {
+  font-size: 30px;
+  position: relative;
+  top: -50px;
+  color: #005aa1;
+}
+
+.WeatherInfo .temperatures {
+  position: relative;
+  top: -20px;
+}
+
+.current-details {
+  list-style: none;
+}
+
+.weather-description {
+  font-size: 20px;
+}
+
+.WeatherInfo .date {
+  padding: 5px;
+  border: 2px solid #a4c5d4;
+  text-align: center;
+  margin: 0px 150px 0px 150px;
+  border-radius: 20px;
+}
