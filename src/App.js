@@ -18,12 +18,12 @@ export default function App() {
           Giang Hoang
         </a>{" "}
         and is{" "}
-        <a href="abc" target="_blank" rel="noopener noreferrer">
+        <a
+          href="abc"
+          target="https://github.com/hhgiang114"
+          rel="noopener noreferrer"
+        >
           on GitHub
-        </a>{" "}
-        and{" "}
-        <a href="abc" target="_blank" rel="noopener noreferrer">
-          hosted on Netlify
         </a>
       </footer>{" "}
     </div>
