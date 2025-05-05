@@ -20,7 +20,7 @@ export default function App() {
         and is{" "}
         <a
           href="abc"
-          target="https://github.com/hhgiang114"
+          target="https://github.com/hhgiang114/weather-react-app"
           rel="noopener noreferrer"
         >
           on GitHub
