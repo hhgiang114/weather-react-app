@@ -7,7 +7,7 @@ Although the weather forecast part is showed as locally but it disappears after 
 
 
 # APIs
-## Weather data is retrieved from http://openweathermap.org/
+Weather data is retrieved from http://openweathermap.org/
 
 
 
